@@ -42,4 +42,4 @@ for i in range(len(images)):
 end = time.perf_counter()
 totalTime = end - start
 
-print(f"(Ball Tree) Total time to search: {totalTime:.6f} seconds")
+print(f"Total time to search: {totalTime:.6f} seconds")
